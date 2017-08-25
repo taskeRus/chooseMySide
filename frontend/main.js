@@ -1,1 +1,1 @@
-import './imports/main.html'
+import './imports/body.js'
